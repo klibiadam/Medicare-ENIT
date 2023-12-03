@@ -13,8 +13,7 @@ export default function Footer() {
                             </span>
                         </a>
                         <p className="mt-6 mr-4 text-base text-gray-500">
-                            Crafting the next-level of user experience and data
-                            security.
+                            IEEE ENIT SB
                         </p>
                     </div>
                     <div className="block w-full pl-10 mt-6 text-sm lg:w-3/4 sm:flex lg:mt-0">
@@ -23,32 +22,11 @@ export default function Footer() {
                                 About Project
                             </li>
                             <li>
-                                <a
-                                    href="https://github.com/sadityakumar9211/medichain-hardhat"
-                                    target="_blank"
-                                    className="inline-block px-3 py-2 text-gray-500 no-underline hover:text-gray-600"
-                                >
-                                    Hardhat Repository
-                                </a>
+
+                                    Medical Alert System <br/> using  blockchain <br/> technology realised by<br/> IEEE ENIT SB
+
                             </li>
-                            <li>
-                                <a
-                                    href="https://github.com/sadityakumar9211/medichain-nextjs"
-                                    target="_blank"
-                                    className="inline-block px-3 py-2 text-gray-500 no-underline hover:text-gray-600"
-                                >
-                                    Next.js Repository
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="https://github.com/sadityakumar9211/medichain-thegraph"
-                                    target="_blank"
-                                    className="inline-block px-3 py-2 text-gray-500 no-underline hover:text-gray-600"
-                                >
-                                    The Graph Repository
-                                </a>
-                            </li>
+
                         </ul>
                         <ul className="flex flex-col w-full p-0 font-medium text-left text-gray-700 list-none">
                             <li className="inline-block px-3 py-2 mt-5 font-bold tracking-wide text-gray-800 uppercase md:mt-0">
@@ -161,13 +139,11 @@ export default function Footer() {
                         </div>
                     </div>
                 </div>
-                <div className="pt-4 pt-6 mt-10 text-center text-gray-500 border-t border-gray-100">
-                    © 2022 MediChain. All rights reserved.
-                </div>
+
 
                 <div className="pt-2 pt-4 mt-2 text-center text-gray-600 border-t border-gray-100">
                     Developed by{" "}
-                    <a href="https://saditya.vercel.app">Aditya Kumar Singh</a>
+                    <a href="">IEEE ENIT Student Branch</a>
                 </div>
             </footer>
         </div>
