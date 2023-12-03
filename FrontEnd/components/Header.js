@@ -10,7 +10,7 @@ export default function Header() {
                         {/* We have a SVG here */}
                         <img src="/logo.svg" alt="Logo of MediChain" />
                         <span className="ml-3 text-xl text-gray-800">
-                            MedicalAlert
+                            MediCare
                             <span className="text-pink-500">.</span>
                         </span>
                     </a>
