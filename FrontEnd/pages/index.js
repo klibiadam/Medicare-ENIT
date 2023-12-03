@@ -23,9 +23,10 @@ export default function Home() {
                                 Decentralized Telemedicine and Medical Alert System
                             </h1>
                             <p className="pr-0 mb-8 text-base text-gray-600 sm:text-lg xl:text-xl lg:pr-20">
-                                An EVM compatible decentralized application
-                                where only patients can access their medical
-                                data, giving them full control over their own data.
+                                An application where only patients can access their medical
+                                data, giving them full control over their own data, and
+                                providing instant alerts in emergency cases to their
+                                dedicated healthcare professionals.
                             </p>
                             <button className="btn btn-primary md:btn-md btn-sm text-center">
                                 <Link href="/patientDashboard">
