@@ -71,8 +71,7 @@ export default function Home() {
                             Features
                         </h2>
                         <h3 className="max-w-2xl px-5 mt-2 text-3xl font-black leading-tight text-center text-gray-900 sm:mt-0 sm:px-0 sm:text-6xl">
-                            Built and Designed with patients ease and privacy in
-                            Mind
+                            Designed for Your Well-being, Built for Your Privacy.
                         </h3>
                         <div className="flex flex-col w-full mt-0 lg:flex-row sm:mt-10 lg:mt-20">
                             <div className="w-full max-w-md p-4 mx-auto mb-0 sm:mb-16 lg:mb-0 lg:w-1/3">
@@ -90,16 +89,15 @@ export default function Home() {
                                         className="relative w-20 h-20"
                                     />
                                     <h4 className="relative mt-6 text-lg font-bold">
-                                        Ease and Control
+                                        Reminder
                                     </h4>
                                     <p className="relative mt-2 md:text-base text-sm text-center text-gray-600">
-                                        Ease and control of your medical
-                                        records. You can access it whenever you
-                                        want. Only you can access your data and
-                                        no one can.
+                                        Daily health tip: Keep the balance.
+                                        Take your pills and drink water regularly
+                                        for a healthier you.
                                     </p>
                                     <a
-                                        href="https://www.cloudflare.com/en-in/learning/ssl/how-does-public-key-encryption-work/"
+                                        href="https://fsph.iupui.edu/doc/10-Tips-Healthy-Lifestyle.pdf"
                                         className="relative flex mt-2 text-sm font-medium text-indigo-500 underline"
                                     >
                                         Learn More
@@ -122,16 +120,16 @@ export default function Home() {
                                         className="relative w-20 h-20"
                                     />
                                     <h4 className="relative mt-6 text-lg font-bold">
-                                        Immutability
+                                        Educational
+                                        Resources
                                     </h4>
                                     <p className="relative mt-2 md:text-base text-sm text-center text-gray-600">
-                                        Being deployed on public blockchain,
-                                        this application makes sure that the
-                                        patient's data is permanent, indellible
-                                        and unalterable.
+                                        Unlock a healthier you! Dive into our
+                                        comprehensive healthcare resources for expert insights,
+                                        tips, and information.
                                     </p>
                                     <a
-                                        href="https://www.solulab.com/what-is-immutable-ledger-in-blockchain-and-its-benefits"
+                                        href="https://www.embs.org/publications/"
                                         className="relative flex mt-2 text-sm font-medium text-indigo-500 underline"
                                     >
                                         Learn More
