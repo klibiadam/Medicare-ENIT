@@ -8,8 +8,8 @@ export default function Home() {
     return (
         <div>
             <Head>
-                <title>MediChain - Homepage</title>
-                <meta name="description" content="MediChain - Homepage" />
+                <title>MediCare- Homepage</title>
+                <meta name="description" content="MediCare - Homepage" />
                 <link rel="icon" href="/logo.svg" />
             </Head>
             <div className="overflow-x-hidden antialiased">
