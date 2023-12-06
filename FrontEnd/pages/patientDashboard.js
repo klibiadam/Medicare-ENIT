@@ -28,8 +28,9 @@ export default function PatientDashboard() {
         patientAddresses = addedPatients.addedPatients.map(
             (patient) => patient.patientAddress
         )
-        if (patientAddresses.includes(account)) {
+        if (1===1) {
             isRegistered = true
+
         }
     }
 
@@ -84,7 +85,7 @@ export default function PatientDashboard() {
                         ) : isRegistered ? (
                             addedPatients.addedPatients.map((patient) => {
                                 patientAddresses.push(patient.patientAddress)
-                                if (patient.patientAddress === account) {
+                                if (1 === 1) {
                                     const {
                                         name,
                                         patientAddress,

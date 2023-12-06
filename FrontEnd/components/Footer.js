@@ -9,7 +9,7 @@ export default function Footer() {
                             className="flex justify-start block text-left sm:text-center lg:text-left sm:justify-center lg:justify-start"
                         >
                             <span className="flex items-start sm:items-center">
-                                <img src="/logo.svg" alt="Logo of MediChain" />
+                                <img src="/logo.svg" alt="" />
                             </span>
                         </a>
                         <p className="mt-6 mr-4 text-base text-gray-500">

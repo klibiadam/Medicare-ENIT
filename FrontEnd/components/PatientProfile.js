@@ -90,7 +90,6 @@ export default function PatientProfile({
                         return decryptHash(encryptedHash)
                     })
                 )
-            // console.log("decryptedVaccinationHash:", decryptedVaccinationHash)
         } catch (e) {
             console.log(e)
             setIsCorrectlyDecrypted(false)
