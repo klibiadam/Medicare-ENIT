@@ -36,7 +36,7 @@ export default function PatientDashboard() {
     return (
         <div className="container mx-auto overflow-x-hidden h-screen">
             <Head>
-                <title>MediChain - Patient Dashboard</title>
+                <title>MediCare - Patient Dashboard</title>
                 <meta
                     name="description"
                     content="MediChain - Patient Dashboard"
