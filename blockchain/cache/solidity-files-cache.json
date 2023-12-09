@@ -1,0 +1,220 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\siben\\OneDrive\\Bureau\\TSYP HEALTHCARE INSURANCE\\medichain-hardhat\\contracts\\DoctorType.sol": {
+      "lastModificationDate": 1701281765559,
+      "contentHash": "f8c971739d2ff12a0af491e4b4489718",
+      "sourceName": "contracts/DoctorType.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "DoctorType"
+      ]
+    },
+    "C:\\Users\\siben\\OneDrive\\Bureau\\TSYP HEALTHCARE INSURANCE\\medichain-hardhat\\contracts\\PatientMedicalRecordSystem.sol": {
+      "lastModificationDate": 1701281765560,
+      "contentHash": "555d07e51aa43ee0e1fe6d30ba2d882c",
+      "sourceName": "contracts/PatientMedicalRecordSystem.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+        "./DoctorType.sol",
+        "./HospitalType.sol",
+        "./PatientType.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "PatientMedicalRecordSystem"
+      ]
+    },
+    "C:\\Users\\siben\\OneDrive\\Bureau\\TSYP HEALTHCARE INSURANCE\\medichain-hardhat\\contracts\\HospitalType.sol": {
+      "lastModificationDate": 1701281765559,
+      "contentHash": "80f0ce63048f155cec68963f72b8385b",
+      "sourceName": "contracts/HospitalType.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "HospitalType"
+      ]
+    },
+    "C:\\Users\\siben\\OneDrive\\Bureau\\TSYP HEALTHCARE INSURANCE\\medichain-hardhat\\contracts\\PatientType.sol": {
+      "lastModificationDate": 1701281765560,
+      "contentHash": "834687767b2437b70f280e4a30fc42bb",
+      "sourceName": "contracts/PatientType.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "PatientType"
+      ]
+    },
+    "C:\\Users\\siben\\OneDrive\\Bureau\\TSYP HEALTHCARE INSURANCE\\medichain-hardhat\\node_modules\\@openzeppelin\\contracts\\security\\ReentrancyGuard.sol": {
+      "lastModificationDate": 1701285897634,
+      "contentHash": "92f9448b23a90ea3bb932ee55cc3ccce",
+      "sourceName": "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ReentrancyGuard"
+      ]
+    }
+  }
+}
