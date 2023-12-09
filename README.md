@@ -39,7 +39,7 @@ yarn install
 yarn run dev
 ```
 
-Visit `http://localhost:3000` in your browser to access the Medicare Health Monitoring System dashboard.
+Visit `http://localhost:3000` in your browser to access the Medicare Platform.
 
 ### Blockchain Implementation
 
